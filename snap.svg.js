@@ -599,7 +599,10 @@ var mina = (function (eve) {
         a.set(res);
     },
     frame = function (timeStamp) {
-        // Manual invokation?
+        // M
+	    
+	    
+	    al invokation?
         if (!timeStamp) {
             // Frame loop stopped?
             if (!requestID) {
